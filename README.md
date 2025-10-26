@@ -1,16 +1,13 @@
-## Hi there 👋
+𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! ![](https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif)
+--------------------------------------------------------------------------------------------------------------------------------
+# I'm Soudip 👋
+## I'm an Engineer and always a Learner!!
 
-<!--
-**Soudip-Maity/Soudip-Maity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Competitive+Programmer;React.js%20|%20Next.js%20|%20HTML%20;RubyOnRails%20|%20Node.js%20;Redux%20|%20Git%20|%20SQL%20;Always%20learning%20new%20things&center=true&width=500&height=50)](https://github.com/DenverCoder1/readme-typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![adam-pw](https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif)
+
+\- 🌱 I’m currently learning Web Development and other programming languages 
+
+\- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.  
